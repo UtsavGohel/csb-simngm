@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://utsavgohel.github.io/csb-simngm/static/js/main.d78ede3c.chunk.js",
+    "main.js.map": "https://utsavgohel.github.io/csb-simngm/static/js/main.d78ede3c.chunk.js.map",
+    "runtime-main.js": "https://utsavgohel.github.io/csb-simngm/static/js/runtime-main.d984914b.js",
+    "runtime-main.js.map": "https://utsavgohel.github.io/csb-simngm/static/js/runtime-main.d984914b.js.map",
+    "static/js/2.125f0dad.chunk.js": "https://utsavgohel.github.io/csb-simngm/static/js/2.125f0dad.chunk.js",
+    "static/js/2.125f0dad.chunk.js.map": "https://utsavgohel.github.io/csb-simngm/static/js/2.125f0dad.chunk.js.map",
+    "index.html": "https://utsavgohel.github.io/csb-simngm/index.html",
+    "static/js/2.125f0dad.chunk.js.LICENSE.txt": "https://utsavgohel.github.io/csb-simngm/static/js/2.125f0dad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d984914b.js",
+    "static/js/2.125f0dad.chunk.js",
+    "static/js/main.d78ede3c.chunk.js"
+  ]
+}
